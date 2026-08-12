@@ -2,7 +2,7 @@
 
 This repository contains my **Machine Learning Lab** coursework, including practical implementations, data analysis, preprocessing, visualization, and machine learning exercises completed using **Python and Google Colab**.
 
-## 📂 Repository Contents
+##  Repository Contents
 
 ### Lab 01 — Titanic Dataset
 
@@ -22,7 +22,7 @@ This repository contains my **Machine Learning Lab** coursework, including pract
 * Student Performance Dataset
 * Data preprocessing, analysis, and machine learning
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Google Colab
@@ -32,7 +32,7 @@ This repository contains my **Machine Learning Lab** coursework, including pract
 * Matplotlib
 * Scikit-learn
 
-## 📊 Topics Covered
+##  Topics Covered
 
 * Data Collection and Exploration
 * Exploratory Data Analysis (EDA)
@@ -44,7 +44,7 @@ This repository contains my **Machine Learning Lab** coursework, including pract
 * Image Classification
 * Working with Real-World Datasets
 
-## 👩‍💻 Author
+##  Author
 
 **Halima Jahan Chowdhury**,
 Computer Science & Engineering,
