@@ -46,6 +46,6 @@ This repository contains my **Machine Learning Lab** coursework, including pract
 
 ## 👩‍💻 Author
 
-**Halima Jahan Chowdhury**
-Computer Science & Engineering
+**Halima Jahan Chowdhury**,
+Computer Science & Engineering,
 Metropolitan University
